@@ -1,0 +1,39 @@
+WWWWWWWWWWWWWWWWWWWWWWWWW
+W*+--------------------|W
+WW|WWWWWWWWWWWWWWWWWWWW|W
+W*+-----------W********+W
+WWWWWWWWWWWWW|WWWWWWWWW|W
+W*****+------|W*******W|W
+WWWWWW|WWWWWWWW*WWWWW*W|W
+W---|W|W*WWWWWW*WWWWWWW|W
+W|WW|W|W**************W|W
+W|WW|W|W*WWWWW*WWWWWWWW|W
+W|xW--|W*****W*+--------W
+WWWWWWWWWWWWWWWeWWWWWWWWW
+
+Legend:
+-------
+e = entrance
+x = destination
+W = wall
+-/| = path in stack
+* = path travelledWWWWWWWWWWWWWWWWWWWWWWWWW
+W                       W
+WW WWWWWWWWWWWWWWWWWWWW W
+W             W         W
+WWWWWWWWWWWWW WWWWWWWWW W
+W             W       W W
+WWWWWW WWWWWWWW WWWWW W W
+W    W W WWWWWW WWWWWWW W
+W WWwW W              W W
+W WW W W WWWWW WWWWWWWW W
+W XW   W     W          W
+WWWWWWWWWWWWWWWWWWWWWWWWW
+
+Legend:
+-------
+e = entrance
+x = destination
+W = wall
+-/| = path in stack
+* = path travelled
